@@ -41,4 +41,7 @@ public class Model {
     public void do_something(){
         
     }
+    public void do_something1(){
+        
+    }
 }
